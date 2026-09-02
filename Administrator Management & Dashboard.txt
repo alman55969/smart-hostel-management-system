@@ -1,0 +1,23 @@
+Description:
+The sixth increment focuses on developing the administrator-side management functionality of the Smart Hostel Management System. The administrator acts as the central authority for monitoring and controlling the overall hostel operations. The module provides an administrative dashboard where the administrator can get an overview of registered students, room occupancy, available rooms, fee payments, and maintenance requests. The administrator can manage student records, monitor room allocations, verify and update payment information, review maintenance requests, and oversee the overall hostel activities. This increment integrates the different modules developed in the previous increments and provides centralized control over the complete hostel management system.
+
+Status:
+✅ Completed
+
+Role:
+Administrator:
+
+Log in through the administrator panel.
+Access the centralized administrator dashboard.
+View and manage registered student records.
+Add, update, or remove student information when required.
+Manage hostel room information and monitor occupancy.
+View available and occupied rooms.
+Monitor student fee and payment records.
+Review pending and completed maintenance requests.
+Update the status of maintenance requests.
+Generate and review hostel management reports.
+Monitor overall hostel activities from a single dashboard.
+
+Contribution:
+This increment provides the central administrative control system and connects the major functionalities of the previous five increments, making the hostel management process more organized, centralized, and efficient.
